@@ -4,7 +4,7 @@
 //
 //  Created by MacOs on 4/5/18.
 //  Copyright © 2018 MacOs. All rights reserved.
-//
+// Hoang Van Long
 
 import XCTest
 @testable import quiz
